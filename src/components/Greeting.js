@@ -16,7 +16,12 @@ const Greeting = () => {
     <div>
       <h1>Greeting from Backend:</h1>
       {status === 'loading' && <p>Loading...</p>}
-      {status === 'failed' && <p>Error: {error}</p>}
+      {status === 'failed' && (
+      <p>
+        Error:
+        {error}
+      </p>
+      )}
       {status === 'succeeded' && greetingMessage && <p>{greetingMessage}</p>}
     </div>
   );

@@ -20,10 +20,10 @@
 
 # 📖 hello_rails_front-end <a name="about-project"></a>  
 
+**hello_rails_front-end** is a web app designed to consume the api provided by the rails backend.
+
 **link to backend** https://github.com/paulshaun-kdtk/hello-rail-backend/pull/1
 
-
-**hello_rails_front-end** is a web app designed to consume the api provided by the rails backend.
 
 ### Tech Stack <a name="tech-stack"></a>
 
